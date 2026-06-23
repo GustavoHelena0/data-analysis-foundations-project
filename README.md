@@ -70,4 +70,5 @@ Durante o desenvolvimento deste projeto, foram praticados conceitos relacionados
 ## Autor
 
 Gustavo Locatelli Helena
-🔗 https://www.linkedin.com/in/gustavo-helena
+
+🔗 https://www.linkedin.com/in/gustavo-locatelli-helena-9967b224b/
